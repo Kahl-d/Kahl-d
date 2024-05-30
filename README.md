@@ -2,8 +2,6 @@
 
 > 努力 (Doryoku) - Hard Work
 
-![Banner](https://images.wsj.net/im-365060/?width=500&size=1)
-
 ## About Me
 I'm a passionate Data Scientist and AI enthusiast currently pursuing a Master's degree in Data Science and Artificial Intelligence at San Francisco State University. With a Bachelor's in Computer Science and Engineering from The LNM Institute of Information Technology, I bring a robust background in various programming languages and development tools.
 
