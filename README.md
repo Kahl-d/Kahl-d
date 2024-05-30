@@ -2,7 +2,7 @@
 
 > 努力 (Doryoku) - Hard Work
 
-![Banner](https://raw.githubusercontent.com/yourusername/assets/main/images/banner.png)
+![Banner](https://images.wsj.net/im-365060/?width=1280&size=1.33333333)
 
 ## About Me
 I'm a passionate Data Scientist and AI enthusiast currently pursuing a Master's degree in Data Science and Artificial Intelligence at San Francisco State University. With a Bachelor's in Computer Science and Engineering from The LNM Institute of Information Technology, I bring a robust background in various programming languages and development tools.
@@ -46,14 +46,6 @@ A professional networking site built with React and Vite, where users can create
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email.khalidmkhan@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashvatthama.__/)
 
-## 🎨 Fun Fact
-I'm a huge fan of sci-fi movies and books. One of my all-time favorites is "Blade Runner." The way it explores the boundaries between humanity and artificial intelligence is endlessly fascinating to me.
+## 🎨 Life Paradoxes
+I use Target bags as trash bags in my dustbin. When I try to empty the trash can to start from a new point, there is always a receipt in there already. So, the dustbin is never actually empty or clean—just a little paradox I live with every day!
 
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Post Title](https://yourbloglink.com)
-- [Post Title](https://yourbloglink.com)
-- [Post Title](https://yourbloglink.com)
-<!-- BLOG-POST-LIST:END -->
-
-<!-- You can use GitHub Actions to automate updating the blog posts list -->
