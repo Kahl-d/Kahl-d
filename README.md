@@ -26,15 +26,6 @@ I'm a passionate Data Scientist and AI enthusiast currently pursuing a Master's 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 📈 GitHub Stats
-![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kahl-d&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kahl-d&layout=compact&theme=radical)
-
-## 📈 GitHub Stats 2
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kahl-d&show_icons=true&theme=radical" alt="Khalid's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kahl-d&theme=radical" alt="Khalid's GitHub streak" width="400"/>
-</div>
 <div style="display: flex; justify-content: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kahl-d&theme=radical" alt="Khalid's GitHub profile summary" width="800"/>
 </div>
