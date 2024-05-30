@@ -25,20 +25,19 @@ I'm a passionate Data Scientist and AI enthusiast currently pursuing a Master's 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-## 🚀 Projects
-### [UMAMe - Enhancing Food Taste](https://github.com/Kahl-d/umame)
-A web application designed to help students make food tastier using a mix of ingredients. It leverages machine learning models to suggest the best ingredient combinations.
-
-### [Flight Fare Prediction App](https://github.com/Kahl-d/flight-fare-prediction)
-An application that predicts flight prices using various machine learning models and data visualization techniques. The app is built with a Flask backend and a React frontend.
-
-### [LinkedIn-like Website](https://github.com/Kahl-d/linkedin-clone)
-A professional networking site built with React and Vite, where users can create profiles, connect with others, and showcase their skills and projects.
-
 ## 📈 GitHub Stats
 ![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kahl-d&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kahl-d&layout=compact&theme=radical)
+
+## 📈 GitHub Stats 2
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kahl-d&show_icons=true&theme=radical" alt="Khalid's GitHub stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kahl-d&theme=radical" alt="Khalid's GitHub streak" width="400"/>
+</div>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kahl-d&theme=radical" alt="Khalid's GitHub profile summary" width="800"/>
+</div>
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-mehtab-khan-0982b1173/)
