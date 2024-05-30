@@ -1,6 +1,6 @@
 # Hi there, I'm Khalid 👋
 
-![Banner](https://your-banner-image-link.com)
+![Banner]([https://your-banner-image-link.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fhow-computers-with-humanlike-senses-will-change-our-lives-11625760066&psig=AOvVaw1fr_k2NJEiLWsrQX_s5YiN&ust=1717150657293000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC2vumStYYDFQAAAAAdAAAAABAE))
 
 ## About Me
 I'm a passionate Data Scientist and AI enthusiast currently pursuing a Master's degree in Data Science and Artificial Intelligence at San Francisco State University. With a Bachelor's in Computer Science and Engineering from The LNM Institute of Information Technology, I bring a robust background in various programming languages and development tools.
