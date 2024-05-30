@@ -1,7 +1,8 @@
-# Hi there, I'm Khalid 👋
+# Hi, I'm Khalid 👋
 
-![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fhow-computers-with-humanlike-senses-will-change-our-lives-11625760066&psig=AOvVaw1fr_k2NJEiLWsrQX_s5YiN&ust=1717150657293000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC2vumStYYDFQAAAAAdAAAAABAE)
+> 努力 (Doryoku) - Hard Work
 
+![Banner](https://raw.githubusercontent.com/yourusername/assets/main/images/banner.png)
 
 ## About Me
 I'm a passionate Data Scientist and AI enthusiast currently pursuing a Master's degree in Data Science and Artificial Intelligence at San Francisco State University. With a Bachelor's in Computer Science and Engineering from The LNM Institute of Information Technology, I bring a robust background in various programming languages and development tools.
@@ -25,24 +26,28 @@ I'm a passionate Data Scientist and AI enthusiast currently pursuing a Master's 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 🚀 Projects
-### [UMAMe - Enhancing Food Taste](https://github.com/yourusername/umame)
+### [UMAMe - Enhancing Food Taste](https://github.com/Kahl-d/umame)
 A web application designed to help students make food tastier using a mix of ingredients. It leverages machine learning models to suggest the best ingredient combinations.
 
-### [Flight Fare Prediction App](https://github.com/yourusername/flight-fare-prediction)
+### [Flight Fare Prediction App](https://github.com/Kahl-d/flight-fare-prediction)
 An application that predicts flight prices using various machine learning models and data visualization techniques. The app is built with a Flask backend and a React frontend.
+
+### [LinkedIn-like Website](https://github.com/Kahl-d/linkedin-clone)
+A professional networking site built with React and Vite, where users can create profiles, connect with others, and showcase their skills and projects.
 
 ## 📈 GitHub Stats
 ![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kahl-d&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kahl-d&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-mehtab-khan-0982b1173/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email.khalidmkhan@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashvatthama.__/)
 
 ## 🎨 Fun Fact
-![Fun GIF](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
+I'm a huge fan of sci-fi movies and books. One of my all-time favorites is "Blade Runner." The way it explores the boundaries between humanity and artificial intelligence is endlessly fascinating to me.
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
