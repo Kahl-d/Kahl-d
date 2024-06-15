@@ -9,7 +9,7 @@ Innovative data science enthusiast with a keen aptitude for identifying patterns
 - 🧑‍🎓 **Bachelor's** in Computer Science and Engineering @ The LNM Institute of Information Technology
 - 💼 Former **Healthcare Data Associate** @ Innovaccer
 - 🛠️ Skilled in **C++, Python, JavaScript, SQL, Go**
-- ⚡ Passionate about **Machine Learning, AI, NLP, and data visualization**
+- ⚡ Passionate about **Machine Learning, AI, NLP, and Data Visualization**
 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
