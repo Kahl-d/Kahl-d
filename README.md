@@ -22,11 +22,13 @@ AI engineer in San Francisco. I build the harness around language models so they
 
 The code is private company work, committed from my work account [@captain-kuro](https://github.com/captain-kuro):
 
-| DesignForge AI activity (private repositories), Feb to Sep 2026 | |
+![DesignForge AI activity, Feb to Sep 2026](assets/designforge-activity.svg)
+
+| DesignForge AI (private repositories, via [@captain-kuro](https://github.com/captain-kuro)), Feb to Sep 2026 | |
 |---|--:|
-| Contributions on [@captain-kuro](https://github.com/captain-kuro) | 1,362 |
-| Pull requests authored | 74 |
-| Pull requests merged | 62 |
+| Contributions | 1,347 |
+| Commits | 1,244 |
+| Pull requests authored / merged | 74 / 62 |
 | Pull requests reviewed | 30 |
 
 **Xuman.AI, founding AI engineer.** I modeled the conversational runtime as a LangGraph state graph and shipped a real-time voice agent over WebRTC that answered at 420 ms p95 voice-to-voice, with every release gated on a golden task set graded by an LLM judge.
